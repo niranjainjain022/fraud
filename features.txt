@@ -1,0 +1,22 @@
+AC_1002_Issue_logT
+Claim_Value_logT_bins
+Region_North West
+Region_South
+Purchased_from_Dealer
+Purchased_from_Internet
+Purchased_from_Manufacturer
+Region_East
+Region_North
+Region_North East
+Region_South East
+Region_West
+Area_Rural
+Area_Urban
+Consumer_profile_Business
+Consumer_profile_Personal
+Product_category_Entertainment
+Product_category_Household
+Product_type_AC
+Product_type_TV
+Purpose_Claim
+Purpose_Complaint
